@@ -1,0 +1,29 @@
+h2{
+ font-family:Algerian;
+ color:blue;
+ text-decoration:underline;
+ text-align:center;
+}
+body{
+	background-color:#589B77;
+	 border:2.5mm dotted blue;
+}
+.m{
+	font-style;italic;
+	color:red;
+}
+#logo{
+    float:left;
+    margin-right:10px;
+	 margin-left:10px;
+	width:auto;
+	height:200px;
+	display:block;
+}
+#s{
+	font-family:Arial narrow;
+    font-style:italic;
+}
+.About{
+	display:block;
+}
